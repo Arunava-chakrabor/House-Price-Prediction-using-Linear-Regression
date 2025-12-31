@@ -1,6 +1,5 @@
 # House Price Prediction using Linear Regression
 
-This project was completed as part of my internship at **SkillCraft Technology**.  
 The objective of this task was to build a **Linear Regression model** to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
 
 ---
@@ -88,11 +87,3 @@ Click below to open the notebook directly in **Google Colab**:
 ## 🏷️ Acknowledgement
 
 - Dataset Source: [Kaggle House Price Dataset](https://www.kaggle.com/datasets)  
-- Internship Task by **SkillCraft Technology**
-
----
-
-## ✨ Author
-
-- **Souvik Kundu**
-- GitHub: [Souvik-kundu-off](https://github.com/Souvik-kundu-off)
